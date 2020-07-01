@@ -21,9 +21,9 @@ body a{
 	-ms-transition:0.5s all;
 }
 .header{
-	background:#fff;
+	background:rgba(17, 17, 17, 0.884);
 	padding:0;
-	margin-left: 16em;
+	/*margin-left: 16em;*/
 }
 .header-left{
 	/*--float: left;
@@ -35,10 +35,13 @@ body a{
 }
 .logo{
 	float: left;
-	margin-right: 5%;
-	width: 19.5555%;
+	margin-right: 0%;
+	width: 15.5555%;
+	padding-left: 1rem;
+
 	
 }
+
 .menu{
 	 float:left;
 	 margin: 13px 0 0;
@@ -156,7 +159,7 @@ body a{
 	right:-10px;
 	width: 0%;
 	min-width:70px;
-	height:71px;
+	height:65px;
 	float: right;
 	overflow: hidden;
 	-webkit-transition: width 0.3s;
@@ -369,7 +372,7 @@ a#loginButton img {
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
-	min-height:410px;
+	min-height:600px;
 	text-align:center;
 	padding-top:3em;
 }
@@ -2046,7 +2049,7 @@ p.educate {
 	width:85%;
 	float: right;
 }
-#loginForm {
+#loginForm { 
 	width: 330px;
 }
 .menu {
@@ -2189,7 +2192,8 @@ span.four {
 	padding: 1.5em 1em;
 }
 .sb-icon-search, .sb-search-submit {
-	width: 55px;
+	width: 50px;
+	
 }
 .sb-search {
 	min-width:55px;
