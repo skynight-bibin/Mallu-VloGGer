@@ -1045,6 +1045,7 @@ i.search{
 	cursor: pointer;
 	width: 258px;
 	height: 173px;
+	
 }
 .view img {
    display: block;
@@ -2130,8 +2131,8 @@ ul.mask_img li.star {
 	margin-right: 1em;
 }
 .view .mask, .view .content {
-	width: 206px;
-	height: 142px;
+	width: 13rem;
+	height: 7.4rem;
 }
 ul.mask_img {
 	padding: 0 2em;
@@ -2221,7 +2222,7 @@ span.one, span.two, span.three, span.four{
 }
 .view-first .mask {
 	position: absolute;
-	left: 197px;
+	left:0rem;
 }
 .view img {
 	display: inline-block;
@@ -2278,8 +2279,8 @@ span.one, span.two, span.three, span.four{
 	margin-bottom: 1em;
 }
 .view .mask, .view .content {
-	width:298px;
-	height: 183px;
+	width: 20.1rem;
+    height: 183px;
 }
 i.m_home, i.m_home1 {
 	bottom: 115px;
@@ -2388,7 +2389,7 @@ ul.mask_img {
 	left: 0px;
 }
 .view-first .mask {
-	left: 134px;
+	left: 0rem;
 }
 i.home, i.home1, i.home2 {
 	right: 247px;
@@ -2475,7 +2476,7 @@ h2.title.block-title {
 	width:60%;
 }
 .view-first .mask {
-	left: 53px;
+	left: 0rem;
 }
 ul.icons li {
 	width: 29%;
@@ -2533,7 +2534,7 @@ ul.filter li a i.icon3 {
 	display: none;
 }
 .view-first .mask {
-	left: 0px;
+	left: 0rem;
 }
 .view .mask, .view .content {
 	width: 243px;
